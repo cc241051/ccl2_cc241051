@@ -6,3 +6,15 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Node
+node_modules/
+
+# React
+frontend/node_modules/
+build/
+
+# Logs
+*.log
+
+# Environment files
+*.env
